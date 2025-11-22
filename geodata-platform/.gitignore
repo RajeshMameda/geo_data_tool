@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.venv
+venv/
+ENV/
+env/
+.env
+
+# Azure Functions
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.pyproj.user
+*.pyproj
+.vs/
+.func/
+local.settings.json
+.vscode/
+.idea/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Local development
+*.local
+.DS_Store
+Thumbs.db
